@@ -62,4 +62,6 @@
 - [koishi-plugin-midjourney-discord](https://github.com/araea/koishi-plugin-midjourney-discord) : Koishi插件，在Koishi支持的聊天平台中调用Midjourney
 
 ## 其它
-[![Star History Chart](https://api.star-history.com/svg?repos=novicezk/midjourney-proxy&type=Date)](https://star-history.com/#novicezk/midjourney-proxy&Date)
+如果觉得这个项目对你有所帮助，请帮忙点个star；也可以请作者喝杯茶～
+
+ <img src="https://raw.githubusercontent.com/imkratos/midjourney-proxy/main/docs/wxcode.png" width="220" alt="微信二维码"/>
