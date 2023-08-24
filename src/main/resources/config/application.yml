@@ -20,4 +20,4 @@ knife4j:
         group-name: API
         api-rule: package
         api-rule-resources:
-          - com.github.imkratos.midjourney.controller
+          - com.github.novicezk.midjourney.controller
